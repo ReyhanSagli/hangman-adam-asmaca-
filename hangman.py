@@ -80,7 +80,7 @@ kelimeler = [
 ]
 
 kelime = random.choice(kelimeler)
-print(kelime)
+#print(kelime)
 
 can = 6
 
